@@ -38,7 +38,6 @@ end
 function calcMag(config)
     return sum(config)
 end
-#N = 8,16,32,64
 nt = 88 
 N = 8
 eqSteps = 200000
